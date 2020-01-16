@@ -1,8 +1,6 @@
 // TODO: write your code here
 import ErrorRepository from './errorRepository';
 
-console.log(3);
-
 const errorsLog = [
   [404, 'Not found'],
   [500, 'Internal server error'],
